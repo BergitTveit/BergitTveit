@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Bergit Tveit - Front End Developer with a Creative Edge and Market Insight 🌈👩‍💻🎨📊
+# Bergit Tveit - Front End Developer with a Creative Edge and Market Insight 🏔️👩‍💻🎨📊
 
 Hey there! 👋 I'm Bergit Tveit, a dedicated front-end development student with a passion for creativity and a diverse range of interests. From fashion design and coding to extreme sports like ice climbing, trad climbing, snowboarding, and even diving, my eclectic background provides a unique lens through which I approach design and development.
 
