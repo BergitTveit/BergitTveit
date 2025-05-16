@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 
 # Bergit Tveit - Front End Developer with a Creative Edge and Market Insight 🏔️👩‍💻🎨📊
 
-Hey there! 👋 I'm Bergit Tveit, a dedicated front-end developer with a passion for creating intuitive and visually appealing web experiences. From fashion design and coding to extreme sports like ice climbing, trad climbing, snowboarding, and diving, my eclectic background provides a unique lens through which I approach design and development.
+Hey there! 👋 I'm Bergit Tveit, a newly educated and dedicated front-end developer with a passion for creating intuitive web experiences. From fashion design and coding to extreme sports like climbing, snowboarding, and diving, my eclectic background provides a unique lens through which I approach design and development.
 
-## 💻 Technical Skills
+## 💻 Still developing technical skills in
 
 ### Languages & Frameworks
-- **JavaScript/TypeScript**
+- **TypeScript**
 - **React.js** - Component architecture, hooks, context API
 - **HTML5 & CSS3**
 - **Tailwind CSS** - Utility-first styling
@@ -59,11 +59,10 @@ Hey there! 👋 I'm Bergit Tveit, a dedicated front-end developer with a passion
 ## About Me
 - 🌱 Continuously expanding my development skills
 - 🎨 Background in fashion design, bringing a creative perspective to coding
-- 📊 Market-savvy, with insights into trends and user preferences
 - 🚀 Passionate about creating accessible and responsive web applications
 
 ## Connect with Me
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bergit%20Tveit-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bergit-tveit-672588152)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bergit%20Tveit-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bergittveit)
 - Instagram (Business): [Lykke & Liten](https://www.instagram.com/lykkeogliten/)
 - Instagram (Personal): [Leafing in the Moment](https://www.instagram.com/leafinginthemoment/)
 - Email: [bergittveit@gmail.com](mailto:bergittveit@gmail.com)
